@@ -1,1 +1,6 @@
 packages: ./ ./test
+-- packages: ./
+
+package plonk-verify
+    documentation: True
+    tests: True
